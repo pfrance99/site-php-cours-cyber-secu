@@ -1,0 +1,14 @@
+{
+  "": {
+    "title": "Page d'Accueil",
+    "content": "Bienvenue sur la page d'accueil ! </br><br>A vous de jouer pour modifier la base de donnée JSON ..."
+  },
+  "article1": {
+    "title": "Article 1",
+    "content": "Voici le premier article du blog."
+    },
+  "article2": {
+    "title": "Article 2",
+    "content": "Voici le deuxième article du blog."
+  }
+}
